@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/aaronsheah/Documents/Android/AndroidStudioProjects/RacingGreen/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/aaronsheah/Documents/Android/AndroidStudioProjects/RacingGreen/app/build/intermediates/pre-dexed/debug/classes-90682ce82d9a3c447692102ad613319317b5f5fa.jar" />
+    </item>
+    <item
+        jar="/Users/aaronsheah/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/aaronsheah/Documents/Android/AndroidStudioProjects/RacingGreen/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-3881cbdd401ef111da13f26da54c4115de8bf835.jar" />
+    </item>
+    <item
+        jar="/Users/aaronsheah/Documents/Android/AndroidStudioProjects/RacingGreen/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/aaronsheah/Documents/Android/AndroidStudioProjects/RacingGreen/app/build/intermediates/pre-dexed/debug/classes-210328d25e2debca62c634cc5a5d214680bbb83a.jar" />
+    </item>
+    <item
+        jar="/Users/aaronsheah/Documents/Android/AndroidStudioProjects/RacingGreen/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="07e07903922250dabf50c7d131d6fa069a050305">
+        <dex dex="/Users/aaronsheah/Documents/Android/AndroidStudioProjects/RacingGreen/app/build/intermediates/pre-dexed/debug/classes-360f6857f80e5da40592038bc99fc4b1033eea2c.jar" />
+    </item>
+    <item
+        jar="/Users/aaronsheah/Documents/Android/AndroidStudioProjects/RacingGreen/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/aaronsheah/Documents/Android/AndroidStudioProjects/RacingGreen/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0b0df3368d260f800903cc4f2dfd360cab270a68.jar" />
+    </item>
+
+</items>

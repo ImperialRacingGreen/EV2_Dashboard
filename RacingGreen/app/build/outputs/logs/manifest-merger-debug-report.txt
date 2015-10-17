@@ -1,0 +1,118 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	xmlns:tools
+		ADDED from AndroidManifest.xml:3:5
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+	package
+		ADDED from AndroidManifest.xml:4:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionCode
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-feature#android.hardware.usb.host
+ADDED from AndroidManifest.xml:6:2
+	android:name
+		ADDED from AndroidManifest.xml:6:16
+application
+ADDED from AndroidManifest.xml:7:5
+MERGED from com.android.support:appcompat-v7:21.0.3:16:5
+MERGED from com.android.support:support-v4:21.0.3:16:5
+MERGED from com.github.satyan:sugar:1.3:11:5
+	android:label
+		ADDED from AndroidManifest.xml:10:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:8:9
+	android:icon
+		ADDED from AndroidManifest.xml:9:9
+		REJECTED from com.github.satyan:sugar:1.3:13:9
+	android:theme
+		ADDED from AndroidManifest.xml:13:9
+	tools:replace
+		ADDED from AndroidManifest.xml:11:9
+	android:name
+		ADDED from AndroidManifest.xml:12:3
+activity#imperial.racinggreen.MainActivity
+ADDED from AndroidManifest.xml:15:9
+	android:screenOrientation
+		ADDED from AndroidManifest.xml:18:13
+	android:label
+		ADDED from AndroidManifest.xml:17:13
+	android:name
+		ADDED from AndroidManifest.xml:16:13
+	android:launchMode
+		ADDED from AndroidManifest.xml:19:4
+intent-filter#android.hardware.usb.action.USB_DEVICE_ATTACHED+android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:20:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:21:17
+	android:name
+		ADDED from AndroidManifest.xml:21:29
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:22:17
+	android:name
+		ADDED from AndroidManifest.xml:22:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from AndroidManifest.xml:23:5
+	android:name
+		ADDED from AndroidManifest.xml:23:17
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from AndroidManifest.xml:26:4
+	android:resource
+		ADDED from AndroidManifest.xml:27:9
+	android:name
+		ADDED from AndroidManifest.xml:26:15
+service#imperial.racinggreen.ArduinoCommunicatorService
+ADDED from AndroidManifest.xml:30:3
+	android:enabled
+		ADDED from AndroidManifest.xml:32:13
+	android:name
+		ADDED from AndroidManifest.xml:31:13
+meta-data#DATABASE
+ADDED from AndroidManifest.xml:34:9
+	android:name
+		ADDED from AndroidManifest.xml:34:20
+	android:value
+		ADDED from AndroidManifest.xml:34:57
+meta-data#VERSION
+ADDED from AndroidManifest.xml:35:9
+	android:name
+		ADDED from AndroidManifest.xml:35:20
+	android:value
+		ADDED from AndroidManifest.xml:35:57
+meta-data#QUERY_LOG
+ADDED from AndroidManifest.xml:36:9
+	android:name
+		ADDED from AndroidManifest.xml:36:20
+	android:value
+		ADDED from AndroidManifest.xml:36:57
+meta-data#DOMAIN_PACKAGE_NAME
+ADDED from AndroidManifest.xml:37:9
+	android:name
+		ADDED from AndroidManifest.xml:37:20
+	android:value
+		ADDED from AndroidManifest.xml:37:57
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from AndroidManifest.xml:39:5
+	android:name
+		ADDED from AndroidManifest.xml:39:22
+uses-permission#android.permission.INTERNET
+ADDED from AndroidManifest.xml:40:5
+	android:name
+		ADDED from AndroidManifest.xml:40:22
+uses-sdk
+INJECTED from AndroidManifest.xml:0:0 reason: use-sdk injection requested
+MERGED from com.android.support:appcompat-v7:21.0.3:15:5
+MERGED from com.android.support:support-v4:21.0.3:15:5
+MERGED from com.github.satyan:sugar:1.3:7:5
+	android:targetSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
